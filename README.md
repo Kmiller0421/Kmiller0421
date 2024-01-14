@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kmiller0421
 - 👀 I’m interested in becoming the best programmer I can be
-- 🌱 I’m currently learning C++ as of right now
+- 🌱 I’m currently learning new things everyday
 - 📫 You can reach me on discord or my email (Baby Cakes#1862)/(truth0669@gmail.com)
 
 <!---
