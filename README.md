@@ -1,3 +1,5 @@
+ABOUT
+
 - 👋 Hi, my name is Kaleb Miller
 - 👀 I’m interested in becoming an software engineer or full-stack developer
 - 🌱 I’m currently learning new technologies everyday
