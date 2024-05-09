@@ -1,7 +1,10 @@
-- 👋 Hi, my name is Kaleb Jones
+# Introduction 👋🏾
+- 👋🏾 Hi, my name is Kaleb
 - 👀 I’m interested in becoming an software engineer or full-stack developer
-- 🌱 I’m currently learning new technologies everyday
-- 📫 You can reach me on discord (Baby Cakes#1862) or my email (truth0669@gmail.com)
+- 👨🏾‍💻 I’m currently learning new technologies everyday
+
+# Contact 📫
+You can dm me on [LinkedIn](www.linkedin.com/in/kaleb-miller-145559241)
 
 <!---
 Kmiller0421/Kmiller0421 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
