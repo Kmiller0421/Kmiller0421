@@ -1,6 +1,6 @@
 # Introduction 👋🏾
 - 👋🏾 Hi, my name is Kaleb
-- 👀 I’m interested in becoming an software engineer or full-stack developer
+- 👀 I’m interested in becoming a full-stack developer
 - 👨🏾‍💻 I’m currently learning new technologies everyday
 
 # Contact 📫
