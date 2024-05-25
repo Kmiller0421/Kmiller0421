@@ -3,6 +3,11 @@
 - 👀 I’m interested in becoming a full-stack developer
 - 👨🏾‍💻 I’m currently learning new technologies everyday
 
+# Fun Facts About Me 
+* I like to play basketball ⛹️
+* I like to read comic books 📚
+* I am 6'3 🦒
+
 # Contact 📫
 You can dm me on [LinkedIn](www.linkedin.com/in/kaleb-miller-145559241)
 
